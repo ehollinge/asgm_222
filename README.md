@@ -1,5 +1,5 @@
 # asgm_222
-repository for game production II projects
+repository for game production II projects, fall 2017
 
 ### Create a github.com account
 If you don't have one already, create a github.com account. 
